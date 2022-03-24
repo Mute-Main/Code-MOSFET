@@ -1,4 +1,3 @@
-const int frequentie = 1000;  // in Hz
 const int LichtMeter = A1;
 const int PotentioMeter = A2;
 const int LED_rood = 4;
